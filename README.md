@@ -1,4 +1,4 @@
-🔭 Suporte de TI | Desenvolvimento Front-End | Automação
+🔭 Suporte de TI | Desenvolvimento Web | Automação
 
 
 ## 🌐 Socials:
