@@ -2,8 +2,8 @@
   <img src= https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif></p><img>
 </p>
 
-<h1>Olá! Eu sou a Maria 👋🏽</h1>
-
+<h1 align="center">✰  Oie! Eu sou a Maria 👋🏽</h1>
+<br>
 <p>
   🎓 Graduanda em <strong>Análise e Desenvolvimento de Sistemas – UNIJORGE</strong><br>
   💻 Formação em <strong>Programação Full-Stack – Infinity School</strong><br>
@@ -47,6 +47,6 @@
 
 ---
 
-<p align="center">✨ <em>Geralmente estudando e testando códigos <3</em> ✨</p>
+<p align="center">✨ <em>Questionando, buscando e solucionando!</em> ✨</p>
 
 
