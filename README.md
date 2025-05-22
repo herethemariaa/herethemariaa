@@ -7,7 +7,7 @@
 <p>
   🎓 Graduanda em <strong>Análise e Desenvolvimento de Sistemas – UNIJORGE</strong><br>
   💻 Formação em <strong>Programação Full-Stack – Infinity School</strong><br>
-  👩🏽‍💻 Interessada em <strong>Desenvolvimento Front-End</strong> e <strong>Automação com Python</strong><br>
+  👩🏽‍💻 Interessada em <strong>Desenvolvimento Front-End</strong> e <strong>Machine Learning</strong><br>
 </p>
 
 ---
