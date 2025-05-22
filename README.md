@@ -37,8 +37,6 @@
 
 ---
 
-## 📨 Perfil Profissional
-
 <p align="center">
   <a href="https://linkedin.com/in/seu-usuario-aqui"](https://www.linkedin.com/in/maria-eduarda-melo-16b79a31b/) target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
