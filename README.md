@@ -5,7 +5,7 @@
 <h1 align="center">✰  Oie! Eu sou a Maria 👋🏽</h1>
 <br>
 <p>
-  🎓 Graduanda em <strong>Análise e Desenvolvimento de Sistemas – UNIJORGE</strong><br>
+  🎓 Graduanda em <strong>Análise e Desenvolvimento de Sistemas </strong><br>
   💻 Formação em <strong>Programação Full-Stack – Infinity School</strong><br>
   👩🏽‍💻 Áreas de interesse: <strong>Desenvolvimento Web</strong> e <strong>Machine Learning</strong><br>
 </p>
