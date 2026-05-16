@@ -7,14 +7,10 @@
 <p>
   🎓 Graduanda em <strong>Análise e Desenvolvimento de Sistemas </strong><br>
   💻 Formação em <strong>Programação Full-Stack – Infinity School</strong><br>
-  👩🏽‍💻 Áreas de interesse: <strong>Desenvolvimento Web</strong> e <strong>Machine Learning</strong><br>
+  👩🏽‍💻 Áreas de interesse: <strong>Desenvolvimento Web</strong> e <strong>Automação</strong><br>
 </p>
 
 ---
-<br><br>
-<p align="center">
-  <img src= https://i.pinimg.com/736x/f3/b3/e0/f3b3e0d2a3f49cd2b7c716d2ccf38c10.jpg></p><img>
-</p>
 
 ## 🖥 Tecnologias e Ferramentas
 
