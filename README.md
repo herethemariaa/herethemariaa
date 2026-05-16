@@ -27,12 +27,6 @@
 
 ---
 
-## 💜 Linguagens
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herethemariaa&theme=aura&hide_border=false&layout=compact" alt="Linguagens mais usadas" />
-</p>
-
 ---
 
 <p align="center">
