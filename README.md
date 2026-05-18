@@ -3,13 +3,9 @@
 </p>
 
 <h1 align="center">Oie, eu sou a Maria</h1>
-Estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Católica de Salvador. Possuo experiência com tecnologias front-end, mas atualmente estou me aprofundando em Java para programação back-end.
+<p Estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Católica de Salvador. Possuo experiência com tecnologias front-end, mas atualmente estou me aprofundando em Java para programação back-end. </p>
 
-# 👨‍💻 Sobre mim
 
-Sou Desenvolvedora Front-End & Mobile, com foco em criação de aplicações modernas, escaláveis e de alta performance.
-
-Atuo no desenvolvimento web e mobile, com experiência em arquitetura de aplicações, integração com APIs e construção de interfaces responsivas.
 ## 📫 Conecte-se comigo
 
 <p align="center">
