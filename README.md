@@ -5,12 +5,12 @@
 <h1 align="center">Oie, eu sou a Maria</h1>
 Estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Católica de Salvador. Possuo experiência com tecnologias front-end, mas atualmente estou me aprofundando em Java para programação back-end.
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C8C5A&center=true&vCenter=true&width=600&lines=Evoluindo+um+passo+por+dia"/>
-</p>
+# 👨‍💻 Sobre mim
 
-## Conecte-se comigo
+Sou Desenvolvedora Front-End & Mobile, com foco em criação de aplicações modernas, escaláveis e de alta performance.
+
+Atuo no desenvolvimento web e mobile, com experiência em arquitetura de aplicações, integração com APIs e construção de interfaces responsivas.
+## 📫 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-melo-16b79a31b/">
@@ -26,9 +26,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Católica
   </a>
 </p>
 
----
-
-## Tecnologias
+## 👩‍💻 Tecnologias
 
 ### Já utilizo
 <p align="center">
@@ -42,7 +40,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Católica
 
 ---
 
-## Foco atual
+## 🎯 Foco atual
 
 - Back-End com Java e orientação a objetos  
 - Desenvolvimento de projetos para portfólio  
@@ -50,7 +48,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Católica
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardamelo&show_icons=true&theme=tokyonight&hide_border=true"/>
