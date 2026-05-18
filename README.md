@@ -3,15 +3,14 @@
 </p>
 
 <h1 align="center">Oie, eu sou a Maria</h1>
+Estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Católica de Salvador. Possuo experiência com tecnologias front-end, mas atualmente estou me aprofundando em Java para programação back-end.
 
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C8C5A&center=true&vCenter=true&width=600&lines=Evoluindo+um+passo+por+dia"/>
 </p>
 
----
-
-## 📫 Conecte-se comigo
+## Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-melo-16b79a31b/">
@@ -29,21 +28,21 @@
 
 ---
 
-## 👩‍💻 Tecnologias
+## Tecnologias
 
 ### Já utilizo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,github,figma&theme=light"/>
 </p>
 
 ### Aprendendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,git&theme=light"/>
 </p>
 
 ---
 
-## 🎯 Foco atual
+## Foco atual
 
 - Back-End com Java e orientação a objetos  
 - Desenvolvimento de projetos para portfólio  
@@ -51,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardamelo&show_icons=true&theme=tokyonight&hide_border=true"/>
