@@ -2,19 +2,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="420"/>
 </p>
 
-<h1 align="center">✨ Oie! Eu sou a Maria ✨</h1>
+<h1 align="center">Oie! Eu sou a Maria ✨</h1>
 <p align="center">
   <em>Questionando, aprendendo e solucionando ☕💻</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C8C5A&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Aprendendo+Java;Back-End+em+construção;Construindo+meu+caminho+na+tecnologia+🌱"/>
 </p>
 
 
 <div align="center">
 
-## 🌿 Conecte-se comigo
+## Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/maria-eduarda-melo-16b79a31b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-A3B18A?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -30,14 +26,14 @@
 
 
 
-## 🧸 Tecnologias & Ferramentas
-### ✨ Já utilizo
+## Tecnologias & Ferramentas
+###  Já utilizo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,bootstrap,git,github,figma&theme=light"/>
 </p>
 
-### 🌱 Aprendendo agora
+###  Aprendendo agora
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java&theme=light"/>
@@ -45,7 +41,7 @@
 
 ---
 
-## ☕ Atualmente focando em
+##  Atualmente focando em
 
 <div align="center">
 
