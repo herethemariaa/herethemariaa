@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-DDBEA9?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://portifolio-nu-seven-83.vercel.app/">
+  <a href="https://mariaeduarda-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-CCD5AE?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
