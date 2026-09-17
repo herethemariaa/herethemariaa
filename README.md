@@ -40,7 +40,7 @@
 
 - Back-End com Java e orientação a objetos  
 - Desenvolvimento de projetos para portfólio  
-- Lógica de programação e algoritmos  
+- SQL e Estrutura de dados
 
 ---
 
